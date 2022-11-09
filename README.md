@@ -1,14 +1,17 @@
-# Group5_Final_Project
+### Group5_Final_Project
 
-## Machine learning revisited from MOD 18
+# Section 1: Machine learning revisited from MOD 18
 
+### What model is best suited for the Group?
 
+## Supervised ML
 Supervised learning deals with labeled data. An example of supervised learning might be to predict, based on data from previous patients, whether a new patient has diabetes.
 
 Supervised learning is fairly simple: We use it when we know what we're looking for or what our output should be. Two of the most popular techniques are classification and regression. For example, if we want to see how Bitcoin performs over time, or if we want to figure out what kinds of coins a user is most likely to buy, we use supervised learning. 
 
 In supervised learning, the input data already has a paired outcome, which is plugged in to train the model to predict outcomes in new datasets. For example, we want to build a model that, when given unfamiliar data, can accurately predict the outcomes.
 
+## Unsupervised ML
 In unsupervised learning, by contrast, machine learning algorithms work with datasets without labeled outcomes. In supervised learning, the labels provide the correct answers. In unsupervised learning, such correct answers, or labels, aren't provided. An example of unsupervised learning might be to task a machine learning algorithm with grouping a bag of objects as it sees fit. The algorithm isn't given labels, so it's on its own to find patterns.
 
 A common application of unsupervised learning is to group customers by purchasing patterns.
