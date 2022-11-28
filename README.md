@@ -9,11 +9,9 @@
   - [AlexKrumins](https://github.com/AlexKrumins) - Git Hub Guru and ML Collab
 
 ## Presentation Overview
-### Selected Topic:  
-  Personal Key Indicators of Heart Disease
-### Reason for Topic:  
+### Personal Key Indicators of Heart Disease  
   Heart Disease affects us all and we have each been affected to various degrees by this disease. 
-### Source of Data Description:  
+### Data Source
   The data source contains 18 variables with Heart Disease as the first column which is the Explanatory Variable.  
   See HeartDiseaseData2020_defs.md for each variable defined as provided in dataset.  
   
@@ -395,112 +393,113 @@ Initial link drop of the [Heart Disease Dashboard](https://public.tableau.com/vi
 Overall Project Management has been overseen by Darin Myers. Darin supervised and lead meeetings and discussions. He helped to streamilne discussions and verified progression as the project progressed.
 
 
-<details><summary>Click the Arrow on the left to expand the First Segment Requirements </summary>
-<p>
-    
-## First Segment Requirements
-### Presentation
-- [x] Selected topic
-- [x] Reason why they selected their topic
-- [x] Description of their source of data
-- [x] Questions they hope to answer with the data
+<details>
+  <summary>Click the Arrow on the left to expand the First Segment Requirements </summary>
+  <p>
 
-### GitHub
-#### Main Branch
-- [x] Includes a README.md
+  ## First Segment Requirements
+  ### Presentation
+  - [x] Selected topic
+  - [x] Reason why they selected their topic
+  - [x] Description of their source of data
+  - [x] Questions they hope to answer with the data
 
-#### Communication Protocols
-- [x] Communication Protocols added
+  ### GitHub
+  #### Main Branch
+  - [x] Includes a README.md
 
-#### Individual Branches
-| Name | At least one branch for each team member | Each team member has at least four commits from the duration of the first segment |
-| --- | --- | --- |
-| Alex |✓|✓|
-| JB |✓|✓|
-| Sara |✓|✓|
-| Hannah |✓|✓|
-| Darin |✓|✓|
+  #### Communication Protocols
+  - [x] Communication Protocols added
 
-Note: The descriptions and explanations required in all other project deliverables should also be in your README.md as part of your outline, unless otherwise noted.
+  #### Individual Branches
+  | Name | At least one branch for each team member | Each team member has at least four commits from the duration of the first segment |
+  | --- | --- | --- |
+  | Alex |✓|✓|
+  | JB |✓|✓|
+  | Sara |✓|✓|
+  | Hannah |✓|✓|
+  | Darin |✓|✓|
 
-# Machine Learning Model
-Team members present a provisional machine learning model that stands in for the final machine learning model and accomplishes the following:
-- [x] Takes in data in from the provisional database
-- [x] Outputs label(s) for input data
+  Note: The descriptions and explanations required in all other project deliverables should also be in your README.md as part of your outline, unless otherwise noted.
 
-# Database 
-Team members present a provisional database that stands in for the final database and accomplishes the following:
-- [x] Sample data that mimics the expected final database structure or schema
-- [x] Draft machine learning module is connected to the provisional database
+  # Machine Learning Model
+  Team members present a provisional machine learning model that stands in for the final machine learning model and accomplishes the following:
+  - [x] Takes in data in from the provisional database
+  - [x] Outputs label(s) for input data
 
- </p>
- </details>
+  # Database 
+  Team members present a provisional database that stands in for the final database and accomplishes the following:
+  - [x] Sample data that mimics the expected final database structure or schema
+  - [x] Draft machine learning module is connected to the provisional database
 
-<details><summary>Click the Arrow on the left to expand the Second Segment Requirements </summary>
-<p>
-    
-## Second Segment Requirements
-### Presentation
-- [x] Selected topic
-- [x] Reason why they selected their topic
-- [x] Description of their source of data
-- [x] Questions they hope to answer with the data
-- [x] Description of the data exploration phase of the project - Darin
-- [x] Description of the analysis phase of the project - JB & Alex
-- [x] Presentations are drafted in Google Slides - Sara
+  </p>
+</details>
 
-### GitHub
-#### Main Branch
-- [ ] All code in the main branch is production ready
-The main branch should include:
-- [x] All code necessary to perform exploratory analysis
-- [x] Some code necessary to complete the machine learning portion of the project
+<details>
+  <summary>Click the Arrow on the left to expand the Second Segment Requirements </summary>
+  <p>  
+  
+  ## Second Segment Requirements
+  ### Presentation
+  - [x] Selected topic
+  - [x] Reason why they selected their topic
+  - [x] Description of their source of data
+  - [x] Questions they hope to answer with the data
+  - [x] Description of the data exploration phase of the project - Darin
+  - [x] Description of the analysis phase of the project - JB & Alex
+  - [x] Presentations are drafted in Google Slides - Sara
 
-- [x] Includes a README.md
-README.md must include:
-- [x] Description of the communication protocols
-- [x] Outline of the project (this may include images, but should be easy to follow and digest)
+  ### GitHub
+  #### Main Branch
+  - [ ] All code in the main branch is production ready
+  The main branch should include:
+  - [x] All code necessary to perform exploratory analysis
+  - [x] Some code necessary to complete the machine learning portion of the project
 
-#### Individual Branches
-| Name | At least one branch for each team member | Each team member has at least four commits from the duration of the second segment |
-| --- | --- | --- |
-| Alex |✓|✓|
-| JB |✓|✓|
-| Sara |✓|✓|
-| Hannah |✓|✓|
-| Darin |✓|✓|
+  - [x] Includes a README.md
+  README.md must include:
+  - [x] Description of the communication protocols
+  - [x] Outline of the project (this may include images, but should be easy to follow and digest)
 
-Note: The descriptions and explanations required in all other project deliverables should also be in your README.md as part of your outline, unless otherwise noted.
+  #### Individual Branches
+  | Name | At least one branch for each team member | Each team member has at least four commits from the duration of the second segment |
+  | --- | --- | --- |
+  | Alex |✓|✓|
+  | JB |✓|✓|
+  | Sara |✓|✓|
+  | Hannah |✓|✓|
+  | Darin |✓|✓|
 
-# Machine Learning Model
-Team members present a provisional machine learning model that stands in for the final machine learning model and accomplishes the following:
-- [x] Takes in data in from the provisional database
-- [x] Outputs label(s) for input data
+  Note: The descriptions and explanations required in all other project deliverables should also be in your README.md as part of your outline, unless otherwise noted.
 
-- [x] Team members submit the code for their machine learning model, as well as the following:
-- [x] Description of preliminary data preprocessing (Dummy Columns)
-- [x] Description of preliminary feature engineering and preliminary feature selection, including their decision-making process (Decide to keep all or some of the features)
-- [x] Description of how data was split into training and testing sets
-- [x] Explanation of model choice, including limitations and benefits
+  # Machine Learning Model
+  Team members present a provisional machine learning model that stands in for the final machine learning model and accomplishes the following:
+  - [x] Takes in data in from the provisional database
+  - [x] Outputs label(s) for input data
 
-# Database 
-Team members present a provisional database that stands in for the final database and accomplishes the following:
-- [x] Sample data that mimics the expected final database structure or schema
-- [x] Draft machine learning module is connected to the provisional database 
+  - [x] Team members submit the code for their machine learning model, as well as the following:
+  - [x] Description of preliminary data preprocessing (Dummy Columns)
+  - [x] Description of preliminary feature engineering and preliminary feature selection, including their decision-making process (Decide to keep all or some of the features)
+  - [x] Description of how data was split into training and testing sets
+  - [x] Explanation of model choice, including limitations and benefits
 
-Team members present a fully integrated database.
-- [x] Database stores static data for use during the project
-- [x] Database interfaces with the project in some format (e.g., scraping updates the database, or database connects to the model)
-- [x] Includes at least one connection string (using SQLAlchemy or PyMongo) Note: If you use a SQL database, you must provide your ERD with relationships.
-- [x] Includes at least two tables (or collections, if using MongoDB)
-- [x] Includes at least one join using the database language (not including any joins in Pandas)
+  # Database 
+  Team members present a provisional database that stands in for the final database and accomplishes the following:
+  - [x] Sample data that mimics the expected final database structure or schema
+  - [x] Draft machine learning module is connected to the provisional database 
+
+  Team members present a fully integrated database.
+  - [x] Database stores static data for use during the project
+  - [x] Database interfaces with the project in some format (e.g., scraping updates the database, or database connects to the model)
+  - [x] Includes at least one connection string (using SQLAlchemy or PyMongo) Note: If you use a SQL database, you must provide your ERD with relationships.
+  - [x] Includes at least two tables (or collections, if using MongoDB)
+  - [x] Includes at least one join using the database language (not including any joins in Pandas)
 
 
-# Dashboard - Hannah
-A blueprint for the dashboard is created and includes all of the following:
-- [x] Storyboard on Google Slide(s)
-- [x] Description of the tool(s) that will be used to create final dashboard
-- [x] Description of interactive element(s) 
-
- </p>
- </details>
+  # Dashboard - Hannah
+  A blueprint for the dashboard is created and includes all of the following:
+  - [x] Storyboard on Google Slide(s)
+  - [x] Description of the tool(s) that will be used to create final dashboard
+  - [x] Description of interactive element(s) 
+  </p>
+</details>
