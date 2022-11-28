@@ -8,7 +8,7 @@
   - [hanstout](https://github.com/hanstout) - Tech & Tableau Dashboard
   - [AlexKrumins](https://github.com/AlexKrumins) - Git Hub Guru and ML Collab
 
-## Presentation
+## Presentation Overview
 ### Selected Topic:  
   Personal Key Indicators of Heart Disease
 ### Reason for Topic:  
@@ -19,12 +19,12 @@
   
   Click [here](https://docs.google.com/presentation/d/1pKxIwqTSkS6hSRaHQHCl31KS4-U53mBcugnEquo3WC4/edit#slide=id.g1944374d260_0_352) for more information about our data.
 
-### Questions they hope to answer with the data:
+### Questions we hope to answer with the data:
   1. What are the top contributors to Heart Disease based on the features of this data set?
   2. What are the least contributing features in this data set?
   3. What combinations are the worst for Heart Disease outcomes?
 
-### Description of the data exploration phase of the project
+### Data exploration phase
 During the data exploration phase, the main goals are to obtain an overall understanding of the data, and to determine how that will affect the model chosen for analysis. 
 
 #### Data Set Overview
