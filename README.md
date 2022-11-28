@@ -216,7 +216,7 @@ All non-numeric columns require representative numeric values for the Machine Le
           <td>Below</td>
         </tr>
         <tr>
-          <td>2/td>
+          <td>2</td>
           <td>Below</td>
         </tr>
         <tr>
@@ -491,9 +491,3 @@ A blueprint for the dashboard is created and includes all of the following:
 
  </p>
  </details>
-<style hidden>
-  table, th, tr, td {
-    border: 1px solid black;
-    border-collapse: collapse;
-  }
-</style>
